@@ -1,0 +1,23 @@
+{
+  "name": "houzingu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoukath/HouzingU.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoukath/HouzingU/issues"
+  },
+  "homepage": "https://github.com/shoukath/HouzingU#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-image-optimization": "^0.1.3"
+  }
+}
