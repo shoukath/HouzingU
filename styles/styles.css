@@ -3,21 +3,17 @@ body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
-	<!-- Navigation bar -->
-
 .navbar {
 	border-radius: 0px;
 }
 
 .navbar-brand {
 	letter-spacing: 1px;
-	
 }
-
 
 li {
 	font-weight: bold;
-	font-color: #fff;
+	color: #fff;
 }
 
 /* Home page */
@@ -31,10 +27,19 @@ h3 {
 	color: #0c88c8;
 }
 
+h2{
+	text-align: right;
+	color: #fff;
+}
+
 h4 {
 	font-weight: bold;
 	padding: 50px;
 	text-align: center;
+}
+
+section p {
+	font-size: 16px;
 }
 
 .bg-image {
@@ -50,7 +55,9 @@ h4 {
 .features h3 {
 	text-align: center;
 }
-/*.features>div {*/
+.features>div {
+	min-height: 590px;
+}
 .caption {
 	margin-bottom: 30px;
 }
@@ -61,11 +68,6 @@ h4 {
 .thumbnail {
 	background-color: #fff;
 }
-
-.ourTools {
-
-}
-
 
 footer {
 	background: #1b1b1b;
