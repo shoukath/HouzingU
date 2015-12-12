@@ -1,5 +1,5 @@
 body {
-	background-image: url(/assets/Background.png);
+	background-image: url(../assets/Background.png);
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -43,7 +43,7 @@ section p {
 
 .bg-image {
 	position: relative;
-	background-image: url(/assets/Hero_BgImg.png);
+	background-image: url(../assets/Hero_BgImg.png);
 	height: 560px;
 }
 
