@@ -17,20 +17,19 @@ li {
 	color: #fff;
 }
 
-/* Home page */
 h1{
 	text-transform: uppercase;
 	color: #0c88c8;
 	margin-bottom: 30px;
 }
 
-h3 {
-	color: #0c88c8;
-}
-
 h2{
 	text-align: left;
 	color: #fff;
+}
+
+h3 {
+	color: #0c88c8;
 }
 
 h4 {
@@ -89,10 +88,3 @@ h5{
 	font-size: 18pt;
     color:#fff;	
 }
-
-
-/*.icon-facebook,.icon-twitter,.icon-instagram {
-	padding-bottom: 150px;
-	padding-left: 25px;
-	padding-top: 50px;
-}*/
