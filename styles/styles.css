@@ -1,6 +1,7 @@
 body {
 	background-image: url(../assets/Background.png);
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+	/*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
 }
 
 .navbar {
@@ -28,7 +29,7 @@ h3 {
 }
 
 h2{
-	text-align: right;
+	text-align: left;
 	color: #fff;
 }
 

@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var imageop = require('gulp-image-optimization');
  
 gulp.task('images', function(cb) {
-    gulp.src(['assets/**/*.png']).pipe(imageop({
+    gulp.src(['assets/**/*.png', '!assets/Website_Mockup.png']).pipe(imageop({
         optimizationLevel: 5,
         progressive: true,
         interlaced: true
