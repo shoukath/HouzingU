@@ -47,8 +47,19 @@ section p {
 	height: 560px;
 }
 
+iframe {
+	float: right;
+    margin-top: 80px;
+}
+
 .jumbotron {
 	background: none;
+	height: 460px;
+}
+
+.jumbotron p {
+	margin-top: 160px;
+	text-align: center;
 }
 
 .features h3 {
