@@ -45,11 +45,15 @@ section p {
 	position: relative;
 	background-image: url(../assets/Hero_BgImg.png);
 	height: 560px;
+	margin:-20px;
 }
 
+
 iframe {
-	float: right;
-    margin-top: 80px;
+	float:right;
+	margin-top: 130px;
+	
+	
 }
 
 .jumbotron {
