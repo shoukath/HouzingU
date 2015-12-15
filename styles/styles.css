@@ -1,5 +1,5 @@
 body {
-	background-image: url(../assets/Background.png);
+	background-image: url(../assets/Background.jpg);
 	font-family: 'Open Sans', sans-serif;
 	position: relative;
 }
@@ -51,10 +51,12 @@ section p {
 }
 
 .bg-image {
-	background-image: url(../assets/Hero_BgImg.png);
+	background-image: url(../assets/Hero_BgImg.jpg);
+	background-color: #DAD8DB;
 	margin-top: 51px;
 	padding: 20px 0;
 	color: #fff;
+	min-height: 470px;
 }
 
 .bg-image h2 {
