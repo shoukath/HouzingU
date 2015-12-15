@@ -54,7 +54,7 @@ section p {
 	background-image: url(../assets/Hero_BgImg.jpg);
 	background-color: #DAD8DB;
 	margin-top: 51px;
-	padding: 20px 0;
+	padding: 6.5% 0;
 	color: #fff;
 	min-height: 470px;
 }
@@ -67,14 +67,21 @@ section p {
 	text-align: center;
 }
 
+#blockquote {
+	padding-top: 60px;
+}
+
 .jumbotron {
 	background: none;
-	height: 380px;
+	display: table;
+	height: 250px;
+	margin: 0;
 }
 
 .jumbotron p {
-	margin-top: 160px;
+	display: table-cell;
 	text-align: center;
+	vertical-align: middle;
 }
 
 .features h3 {
