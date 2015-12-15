@@ -47,18 +47,13 @@ section p {
 }
 
 .bg-image {
-	position: relative;
 	background-image: url(../assets/Hero_BgImg.png);
-	height: 560px;
-	margin:-20px;
+	margin-top: 51px;
+	padding: 20px 0;
 }
 
-
-iframe {
-	float:right;
-	margin-top: 130px;
-	
-	
+.iframe-container {
+	text-align: center;
 }
 
 .jumbotron {
@@ -105,5 +100,5 @@ h5{
 	letter-spacing: 2px;
 	font-weight: bold;
 	font-size: 18pt;
-    color:#fff;	
+	color:#fff;	
 }
